@@ -1,0 +1,1 @@
+[32mINFO    [0m root:test_apply_valid_coupon_to_order.py:24 TEST: apply a valid coupon to order and verify order total amount

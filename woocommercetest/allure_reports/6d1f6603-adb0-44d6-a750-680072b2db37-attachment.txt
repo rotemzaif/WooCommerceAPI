@@ -1,0 +1,1 @@
+[32mINFO    [0m root:test_update_order.py:49 TEST: Update existing order's 'customer notes' field

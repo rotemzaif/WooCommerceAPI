@@ -1,0 +1,6 @@
+set MACHINE=docker
+set WP_HOST=docker
+set WC_KEY=ck_be4063ed082cfcd3d9f2a3774234d2410cb62da2
+set WC_SECRET=cs_9fc91066aadfe1d213f601f632f4c64a518133a2
+set DB_USER=user
+set DB_PASSWORD=pass

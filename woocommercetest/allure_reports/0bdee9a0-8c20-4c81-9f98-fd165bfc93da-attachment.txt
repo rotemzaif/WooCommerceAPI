@@ -1,0 +1,1 @@
+[32mINFO    [0m root:test_update_order.py:33 TEST: Update existing order's with non existing status
