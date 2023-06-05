@@ -1,6 +1,6 @@
 export MACHINE=docker
 export WP_HOST=docker
-export WC_KEY=ck_74de1f353a6c647180818b84c31724ca7926e1bc
-export WC_SECRET=cs_132303215b77235ccbf2cf677591fc6fc84c5a42
+export WC_KEY=ck_8d55b269ef4b83b2abbf0094851cbd1f07ec3488
+export WC_SECRET=cs_cbd1608100a066c7082b9fbe57ed672ed2c7d8ea
 export DB_USER=user
 export DB_PASSWORD=pass
