@@ -10,4 +10,6 @@ docker run --rm ^
 -e DB_USER=%DB_USER% ^
 -e DB_PASSWORD=%DB_PASSWORD% ^
 woo_api_test ^
-pytest -m coupons --pdb /automation/woocommercetest
+pytest -c /automation/woocommercetest/pytest.ini ^
+--color=yes ^
+-m %1 --pdb /automation/woocommercetest
