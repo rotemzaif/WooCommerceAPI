@@ -2,7 +2,7 @@ API_HOSTS = {
     # "test": "http://localhost:10005/wp-json/wc/v3/",  # wordpress via local
     # "test": "http://localhost:8000/wp-json/wc/v3/",  # wordpress via docker container
     # "test": "http://host.docker.internal:8000/wp-json/wc/v3/",  # wordpress via docker container
-    "test": "http://10.0.0.7:8000/wp-json/wc/v3/",  # wordpress via docker container
+    "test": "http://10.0.0.5:8000/wp-json/wc/v3/",  # wordpress via docker container
     "dev": "",
     "prod": ""
 }
@@ -10,7 +10,7 @@ API_HOSTS = {
 WOO_API_HOSTS = {
     # "test": "http://localhost:10005/",  # wordpress via local
     # "test": "http://localhost:8000/",  # wordpress via docker container
-    "test": "http://10.0.0.7:8000/",  # wordpress via docker container
+    "test": "http://10.0.0.5:8000/",  # wordpress via docker container
     "dev": "",
     "prod": ""
 }
